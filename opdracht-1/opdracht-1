@@ -1,0 +1,5 @@
+#Call in sick
+from random import randint
+
+sick_days = randint(1,11)
+print(sick_days)
